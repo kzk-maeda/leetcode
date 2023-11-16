@@ -1,0 +1,7 @@
+{
+  "require_device_activation_web": false,
+  "require_device_activation_for_teacher_web": true,
+  "hide_initial_setting_checklist": true,
+  "require_device_activation": true,
+  "require_device_activation_for_teacher": true
+}
